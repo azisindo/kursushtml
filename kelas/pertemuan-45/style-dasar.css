@@ -1,0 +1,13 @@
+.subjudul{
+    font-size: 32px;
+}
+
+.judul{
+    font-size: 64px;
+    font-weight: 900;
+    color:green
+}
+
+.pembungkus{
+    background-color: #e4bba1;
+}

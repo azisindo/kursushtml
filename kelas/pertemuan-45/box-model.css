@@ -1,0 +1,37 @@
+*{
+  margin: 0px;  
+}
+.subjudul{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.judul{
+    font-size: 64px;
+    font-weight: 900;
+    color:green;
+    margin-bottom: 20px;
+}
+
+.pembungkus{
+    background-color: #e4bba1;
+    padding: 100px;
+    display: flex;
+}
+.button{
+    background-color: white;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 37px;
+    padding-left: 37px;
+    font-size: 20px;
+    font-weight: 700;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.gambar{
+    width: 500px;
+    height: 500px;
+
+}

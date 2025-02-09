@@ -1,0 +1,10 @@
+  <link rel="stylesheet" href="style-dasar.css"/>
+  untuk property dari rel apa saja  disaya gak muncul
+
+https://www.figma.com/design/1FeZN0BS2GFG7APexCxanc/Batch-3-Website?node-id=0-1&t=YKAfWdZotjcwxL06-1
+
+external = margin ->jarak antar object didalam object
+
+internal = pading -> jarak antar object di dalam object
+
+
