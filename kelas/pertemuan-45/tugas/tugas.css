@@ -1,0 +1,71 @@
+* {
+  margin: 0px;
+}
+.logotoko {
+  /* width: 375px; */
+  padding-top: 61px;
+  height: 89px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bungkus-menu {
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bungkus-produk {
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding: 10px;
+  width: 30%;
+}
+
+.gambar-produk {
+  width: 100%;
+}
+
+.card-logo {
+  border-width: 0px;
+  border-style: solid;
+  border-color: black;
+  padding: 10px;
+  width: 10%;
+}
+
+.bungkus-prod-atas {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.bungkus-menu-atas {
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.nama-produk {
+  font-size: 24px;
+  font-weight: 300;
+}
+.harga-produk {
+  font-size: 15px;
+  font-weight: 700;
+}
+.tombol {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+}
+.bungkus-tombol {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

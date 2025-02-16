@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+
+    <link
+      href="https://api.fontshare.com/v2/css?f[]=satoshi@300,301,400,500,501,700,900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        /* font-family: "Satoshi", sans-serif; */
+        font-family: "Inter", serif;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- hero baner -->
+    <div class="bg-[#E4BBA1] p-4 md-p-0">
+      <div
+        class="flex justify-between items-center container mx-auto flex-col md:flex-row"
+      >
+        <img src="images/hero.png" class="md:h-[500px] h-64 md:order-2" />
+        <div>
+          <p class="text-xl md:text-3xl font-light mt-4">Diskon 30% Hari ini</p>
+          <p class="text-3xl md:text-6xl font-black text-[#003E29] mt-4">
+            Promo 2025<br />
+            Jacket Collection
+          </p>
+          <button class="md:text-xl font-bold bg-white px-6 py-4 mt-8">
+            Beli Sekarang
+          </button>
+        </div>
+        <!-- <img src="images/hero.png" class="h-[500px]" /> -->
+      </div>
+    </div>
+
+    <!-- top produk  -->
+    <div class="container mx-auto mt-8 mb-10 px-6 md:px-0">
+      <p class="text-4xl font-bold">Top Product</p>
+      <div class="flex gap-10 mt-5 flex-col md:flex-row">
+        <div class="border-2 border[#787878] p-4 rounded-2xl">
+          <img src="images/produk1.png" class="rounded-xl" />
+          <p class="text-3xl font-ligth mt-6">JEANS WANITA 39</p>
+          <p class="text-2xl font-black">Rp 450.000</p>
+        </div>
+
+        <div class="border-2 border[#787878] p-4 rounded-2xl">
+          <img src="images/produk3.png" class="rounded-xl" />
+          <p class="text-3xl font-ligth mt-6">T-SHIRT BLACK</p>
+          <p class="text-2xl font-black">Rp 120.000</p>
+        </div>
+
+        <div class="border-2 border[#787878] p-4 rounded-2xl">
+          <img src="images/produk2.png" class="rounded-xl" />
+          <p class="text-3xl font-ligth mt-6">SEPATU HITAM NIKE</p>
+          <p class="text-2xl font-black">Rp 300.000</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

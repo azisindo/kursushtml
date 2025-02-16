@@ -1,86 +1,86 @@
-*{
-    margin: 0px;  
-  }
-  .subjudul{
-      font-size: 32px;
-      margin-bottom: 20px;
-  }
-  
-  .judul{
-      font-size: 64px;
-      font-weight: 900;
-      color:green;
-      margin-bottom: 20px;
-  }
-  
-  .pembungkus{
-      background-color: #e4bba1;
-      display: flex;
-      justify-content: space-between;
-      padding-left: 50px;
-      padding-right: 50px;
+* {
+  margin: 0px;
+}
+.subjudul {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
 
-  }
+.judul {
+  font-size: 64px;
+  font-weight: 900;
+  color: green;
+  margin-bottom: 20px;
+}
 
-  .info{
-    padding: 100px;
-  }
+.pembungkus {
+  background-color: #e4bba1;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+}
 
-  .button{
-      background-color: white;
-      padding-top: 18px;
-      padding-bottom: 18px;
-      padding-right: 37px;
-      padding-left: 37px;
-      font-size: 20px;
-      font-weight: 700;
-      border-width: 0px;
-      border-radius: 10px;
-  }
-  
-  .gambar{
-       width: 500px;  
-      height: 500px;
-  
-  }
-  
-  .bungkus-card{
-    display: flex;
-    justify-content: space-between;
+.info {
+  padding: 100px;
+}
 
-  }
-  .gambar-produk{
-    width: 100%;
-    /* height: 541px; */
-    /* object-fit: contain; */
-  }
-  .bungkus-produk{
-    padding-left: 150px;
-    padding-right: 150px;
-  }
+.button {
+  background-color: white;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-right: 37px;
+  padding-left: 37px;
+  font-size: 20px;
+  font-weight: 700;
+  border-width: 0px;
+  border-radius: 10px;
+}
 
-  .title-product{
-    font-size: 36px;
-    font-weight: 900;
-    margin-top: 30px;
-    margin-bottom: 30px;
-  }
+.gambar {
+  width: 500px;
+  height: 500px;
+}
 
-  .nama-produk{
-    font-size: 30px;
-    font-weight: 300;
-  }
+.bungkus-card {
+  display: flex;
+  justify-content: space-between;
+}
+.gambar-produk {
+  width: 100%;
+  /* height: 541px; */
+  /* object-fit: contain; */
+}
+.bungkus-produk {
+  padding-left: 150px;
+  padding-right: 150px;
+}
 
-  .harga-produk{
-    font-size:24px ;
-    font-weight: 900;
+.title-product {
+  font-size: 36px;
+  font-weight: 900;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
 
-  }
+.nama-produk {
+  font-size: 30px;
+  font-weight: 300;
+}
 
-  .card{
-    border-width: 1px;
-    border-style: solid;
-    border-color: black;
-    padding: 10px;
-    width: 30%;
-  }
+.harga-produk {
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.card {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding: 10px;
+  width: 30%;
+}
+
+.gambar-produk {
+  width: 100%;
+}

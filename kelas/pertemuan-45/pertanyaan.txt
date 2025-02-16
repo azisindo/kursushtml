@@ -7,4 +7,9 @@ external = margin ->jarak antar object didalam object
 
 internal = pading -> jarak antar object di dalam object
 
+----------latihan--------------
 
+https://www.figma.com/design/KNtEzlwsEPP9xuLBHdpV7e/CSS-dan-Tailwind?node-id=0-1&p=f&t=0wDRpdiHXmAptqNc-0
+
+
+https://www.figma.com/design/1FeZN0BS2GFG7APexCxanc/Batch-3-Website?node-id=0-1&p=f&t=q5xd3BJC2ngpUtKa-0
